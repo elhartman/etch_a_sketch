@@ -1,0 +1,11 @@
+.contain {
+	background-color:#FFF;
+	width:820px;
+}
+
+.etchbox {
+	width:30px;
+	height:30px;
+	border:1px solid #000;
+	display:inline-block;
+}
